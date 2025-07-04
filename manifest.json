@@ -1,6 +1,6 @@
 {
   "name": "Privado-Chat",
-  "short_name": "ChatPWA",
+  "short_name": "PriChat",
   "description": "Um app de mensagens com áudio e imagem, estilo WhatsApp.",
   "id": "/",
   "start_url": "./",
